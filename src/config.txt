@@ -1,0 +1,14 @@
+--minmargin 0x0 
+--orientation vertical 
+--papersize 5.9x10
+--no-page-footer
+--count
+--types
+--expansion-dividers
+--full-expansion-dividers
+--linetype dot
+--group-special
+--black-tabs
+--tab-name-align edge
+--front-offset-height -3
+--back-offset-height -3
